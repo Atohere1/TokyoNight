@@ -10,8 +10,7 @@
   ],
   "plus": {
     "version": 1,
-    "mentionLineColor": "#55576b",
-    "iconpack": "rosiecord-plumpy"
+    "mentionLineColor": "#55576b"
   },
   "semanticColors": {
     "HEADER_PRIMARY": [
